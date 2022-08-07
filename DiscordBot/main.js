@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 var mysql = require('mysql')
 
-var token = 'MTAwNDQzNTE4NDk4NjM3NDE2NQ.GZIwxm.5lxQxrafrFGVHzWP3A8sxUkh5D_jCLsTGhQCjM'
+var token = 'MTAwNDQzNTE4NDk4NjM3NDE2NQ.GErfc7.Eh0J_FJPN0lk0INa_Qb1guv8Awjc8IdSJbuBtk'
 var admindiscordid = '987638561509630042'
 
 
